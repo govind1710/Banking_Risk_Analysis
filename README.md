@@ -105,3 +105,11 @@ The Banking Risk Analysis Dashboard integrates MySQL, Python, and Power BI to pr
 - **MySQL**  
 - **Jupyter Notebook** (`Pandas`, `SQLAlchemy`, `Matplotlib`, `Seaborn`)  
 - **Power BI** (`DAX`, custom visuals, navigation buttons, slicers`)
+
+
+## 📁 Power BI Dashboard File
+
+You can download and open the full interactive dashboard using Power BI Desktop:
+
+📊 **[Banking Risk Analysis Dashboard.pbix](./Banking%20Risk%20Analysis%20Dashboard.pbix)**  
+_(File size: ~3MB, Power BI required to view)_
